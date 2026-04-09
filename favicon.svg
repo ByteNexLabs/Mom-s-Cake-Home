@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="50" fill="#4E342E" />
+  
+  <rect x="25" y="70" width="50" height="4" rx="2" fill="#F48FB1" />
+  <polygon points="40,70 60,70 55,80 45,80" fill="#F48FB1" />
+  
+  <path d="M30 70 V 55 Q 50 65 70 55 V 70 Z" fill="#FFFDF7" />
+  
+  <path d="M35 55 V 40 Q 50 50 65 40 V 55 Z" fill="#F48FB1" />
+  
+  <circle cx="40" cy="40" r="5" fill="#FFFDF7" />
+  <circle cx="50" cy="42" r="5" fill="#FFFDF7" />
+  <circle cx="60" cy="40" r="5" fill="#FFFDF7" />
+  
+  <rect x="48" y="25" width="4" height="15" fill="#FFFDF7" />
+  
+  <path d="M50 15 Q 54 20 50 25 Q 46 20 50 15 Z" fill="#FFD700" />
+</svg>
